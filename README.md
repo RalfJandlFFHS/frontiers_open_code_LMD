@@ -28,6 +28,7 @@ As mentioned, the data used are not provided with this repository but can be dow
 - V-tracks: https://zenodo.org/record/3980733#.Y9gd07LMIV8
 - Spiral tracks: https://zenodo.org/record/4061502 and https://zenodo.org/record/4049842
 - Random tracks: https://zenodo.org/record/5607279
+
 From this links the image csv files and the track csv files have to be downloaded and stored in a subfolder "Data".
 
 At the very beginning of the test_notebook.ipynb the list of files to be used in the experiments have to be defined with the following structure: (folder / imgfile / trackfile / list of tracks to be dropped / powder flux)
