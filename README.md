@@ -34,5 +34,7 @@ At the very beginning of the test_notebook.ipynb the list of files to be used in
 
 ## Get in touch
 If you are having trouble with the code or have built upon it and want to share your results with us, please feel free to contact the authors.
+
 Martina Perani, Fernfachhoschschule Schweiz, [martina.perani@ffhs.ch](martina.perani@ffhs.ch)
+
 Ralf Jandl, Fernfachhochschule Schweiz, [ralf.jandl@ffhs.ch](ralf.jandl@ffhs.ch)
