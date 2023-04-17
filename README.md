@@ -1,9 +1,9 @@
 # Frontiers Open Code LMD
 
-## Recurrent neural networks for modeling two-dimensional track geometry in laser metal deposition
+## Long-short term memory networks for modeling track geometry in laser metal deposition
 
 ## Description
-This repository contains the code used to produce the results published in the paper "Recurrent neural networks for modeling track geometry in laser metal deposition" (Martina Perani, Ralf Jandl, Stefano Baraldo, Anna Valente and Beatrice
+This repository contains the code used to produce the results published in the paper "Long-short term memory networks for modeling track geometry in laser metal deposition" (Martina Perani, Ralf Jandl, Stefano Baraldo, Anna Valente and Beatrice
 Paoli), submitted in Frontiers in Artificial Intelligence. The raw data are published on Zenodo with an open access licence and are not provided with this repository.
 
 ## Usage
